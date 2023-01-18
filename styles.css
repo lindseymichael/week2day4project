@@ -19,9 +19,10 @@ form {
     border-radius: 5px;
 }
 #submit {
-    margin: 25px;
+    margin: 20px auto 40px;
     padding: 0 20px;
     font-size: small;
-    
+    width: 270px;
+        
 }
 
