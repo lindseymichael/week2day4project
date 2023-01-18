@@ -15,7 +15,7 @@ form {
     width: 275px;
     text-align: center  ;
     padding: 0px 10px;
-    margin: 10% 40% 10%; 
+    margin: 10% auto; 
     border-radius: 5px;
 }
 #submit {
